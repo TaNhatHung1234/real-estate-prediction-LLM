@@ -8,7 +8,8 @@ https://real-estate-prediction-llm-mkhcnb5vsplay23eicsbrv.streamlit.app
 
 ## Giao diện hệ thống
 
-(Ảnh screenshot)
+<img width="1777" height="858" alt="image" src="https://github.com/user-attachments/assets/d5e83695-eb7f-4e67-adc1-88083154a2c5" />
+
 
 ## Chức năng chính
 
