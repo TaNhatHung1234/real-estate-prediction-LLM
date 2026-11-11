@@ -28,4 +28,4 @@ Gemini từ chối đánh giá đầu tư trực tiếp và cho biết dữ li�
 
 ### Screenshot
 
-<img width="2641" height="2268" alt="image" src="LINK_ANH_GITHUB">
+<img width="1795" height="855" alt="image" src="https://github.com/user-attachments/assets/1cb44799-11aa-48e7-ac07-2681b5a35a42" />
