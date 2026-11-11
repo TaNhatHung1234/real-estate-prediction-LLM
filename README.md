@@ -1,39 +1,39 @@
-# 🏡 Real Estate Price Prediction using Machine Learning & LLM
+# DSS Hỗ Trợ Định Giá & Tư Vấn Bất Động Sản
 
-A machine learning system for predicting real estate prices in Vietnam and providing AI-generated explanations for property valuation.
+## Demo Online
 
-## 📌 Project Overview
+Ứng dụng đã được triển khai trên Streamlit Cloud:
 
-This project aims to estimate housing prices based on property characteristics such as:
+https://real-estate-prediction-llm-mkhcnb5vsplay23eicsbrv.streamlit.app
 
-- Area
-- Number of bedrooms
-- Number of bathrooms
-- Location
-- Property type
+## Giao diện hệ thống
 
-The system combines:
+(Ảnh screenshot)
 
-- Machine Learning for price prediction
-- Large Language Models (LLM) for explanation generation
-- Streamlit for interactive visualization
+## Chức năng chính
 
----
+- Dự đoán giá bất động sản bằng Machine Learning
+- Sinh các kịch bản giá bán:
+  - Bán nhanh
+  - Giá thị trường
+  - Giá kỳ vọng
+- Tư vấn bằng Gemini AI
+- Guardrails hạn chế hallucination
 
-## 🚀 Features
+## Công nghệ sử dụng
 
-✅ House price prediction
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas
+- Joblib
+- Google Gemini API
 
-✅ Interactive web interface
+## Tài liệu
 
-✅ Trained ML model stored as Pickle
+- docs/gemini-prompt-log.md
+- docs/system-architecture.md
 
-✅ Vietnamese real-estate dataset
+## Phiên bản
 
-✅ AI-generated explanation (future enhancement)
-
-✅ RAG-based property recommendation (future enhancement)
-
----
-
-## 📂 Project Structure
+Current Release: v0-prototype
