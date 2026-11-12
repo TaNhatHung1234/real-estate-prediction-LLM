@@ -1,6 +1,14 @@
 from pydantic import BaseModel
 
-class PredictionRequest(BaseModel):
+class HouseInput(BaseModel):
+    province: str
+    district: str
     area: float
-    bedrooms: int
-    bathrooms: int
+    frontage: float
+    access_road: float
+    floors: float
+    bedrooms: float
+    bathrooms: float
+    legal_status: str
+    furniture: str
+    direction: str
