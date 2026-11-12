@@ -1,17 +1,20 @@
 from fastapi import FastAPI
 
-from schemas import PredictionRequest
-from predictor import predict_price
+from api.schemas import HouseInput
+from api.predictor import predict
+
 
 app = FastAPI(
-    title="Real Estate DSS API"
+    title="Real Estate DSS API",
+    version="1.0"
 )
-
+#Health check:
 @app.get("/")
 def root():
     return {
         "message": "API Running"
     }
+
 
 @app.get("/health")
 def health():
@@ -19,11 +22,10 @@ def health():
         "status": "healthy"
     }
 
+#AI dự đoán:
 @app.post("/predict")
-def predict(data: PredictionRequest):
+def predict_house(data: HouseInput):
 
-    result = predict_price(data)
+    result = predict(data)
 
-    return {
-        "predicted_price": result
-    }
+    return result
