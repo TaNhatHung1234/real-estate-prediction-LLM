@@ -10,7 +10,7 @@ from ml_engine import predict_house_price
 # ==========================================
 @st.cache_data
 def load_and_prep_rag_db():
-    df = pd.read_csv('vietnam_housing_dataset.csv')
+    df = pd.read_csv('data/vietnam_housing_dataset.csv')
     df['Tỉnh thành'] = df['Tỉnh thành'].astype(str).str.strip().str.rstrip('.')
     return df
 
