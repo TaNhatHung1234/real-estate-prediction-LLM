@@ -10,7 +10,7 @@ from sklearn.impute import SimpleImputer
 
 def train_and_save_model():
     print("1. Đang nạp và làm sạch dữ liệu...")
-    df = pd.read_csv('vietnam_housing_dataset.csv')
+    df = pd.read_csv('data/vietnam_housing_dataset.csv')
 
     # Chuẩn hóa tên Tỉnh thành
     df['Tỉnh thành'] = df['Tỉnh thành'].astype(str).str.strip().str.rstrip('.')
