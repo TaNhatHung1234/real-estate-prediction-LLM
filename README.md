@@ -190,6 +190,36 @@ real-estate-prediction-LLM
 ```
 
 ---
+---
+
+# Đánh giá mô hình định giá
+
+Dữ liệu được làm sạch trước khi chia: bỏ các dòng thiếu giá bán và các dòng trùng lặp, sau đó chia 80% train / 20% test với `random_state=42`. Mô hình chỉ được huấn luyện trên tập train.
+
+## Kết quả trên tập test (5.460 căn)
+
+| Mô hình | RMSE (tỷ) | MAE (tỷ) | R² | MAPE |
+|---|---|---|---|---|
+| Gradient Boosting (đang dùng) | 1,726 | 1,377 | 0,375 | 29,1% |
+| Baseline: trung vị giá theo quận | 1,961 | 1,553 | 0,194 | 33,1% |
+
+Mô hình cải thiện so với baseline trên cả bốn metric, nhưng mức cải thiện không lớn. R² = 0,375 nghĩa là mô hình giải thích khoảng 37% độ biến thiên giá. Sai số trung bình (MAE) khoảng 1,38 tỷ, tương đương khoảng 23% giá trung vị của dữ liệu. Dữ liệu được thu thập từ tin rao và thiếu nhiều thông tin quan trọng như vị trí chi tiết, tình trạng nhà và thời điểm giao dịch, nên giới hạn này chủ yếu đến từ dữ liệu.
+
+## Tái lập
+
+```bash
+python -m evaluation.ml_eval
+```
+
+Kết quả được ghi vào `evaluation/results/ml_metrics.json`.
+
+## Hạn chế
+
+- Nhãn giá là giá rao bán, không phải giá giao dịch thực tế.
+- Chưa đánh giá trên dữ liệu thu thập ở thời điểm khác (kiểm tra ngoài mẫu theo thời gian).
+- Một số đặc trưng như Pháp lý và Nội thất có mức độ đóng góp rất thấp vào dự đoán của mô hình hiện tại.
+
+---
 
 # Hướng phát triển
 
@@ -219,6 +249,7 @@ real-estate-prediction-LLM
 - Hybrid Search (BM25 + BGE-M3)
 
 ---
+
 
 # Tài liệu
 
