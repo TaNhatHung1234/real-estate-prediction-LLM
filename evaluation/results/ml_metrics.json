@@ -1,0 +1,17 @@
+{
+  "n_total_after_clean": 27300,
+  "gradient_boosting": {
+    "n_test": 5460,
+    "RMSE_ty": 1.726,
+    "MAE_ty": 1.377,
+    "R2": 0.3752,
+    "MAPE_pct": 29.12
+  },
+  "baseline_district_median": {
+    "n_test": 5460,
+    "RMSE_ty": 1.961,
+    "MAE_ty": 1.553,
+    "R2": 0.1941,
+    "MAPE_pct": 33.1
+  }
+}

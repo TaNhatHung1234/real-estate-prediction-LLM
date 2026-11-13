@@ -1,0 +1,101 @@
+﻿qid,n_relevant_in_db,Tỉnh thành,Quận huyện,Diện tích,Mặt tiền,Đường vào,Số tầng,Số phòng ngủ,Số toilet,Pháp lý,Nội thất,Hướng nhà
+q000,240,Hà Nội,Long Biên,56.0,4.0,20.0,,,,Have certificate,,
+q001,20,Hà Nội,Chương Mỹ,38.0,6.3,,4.0,3.0,3.0,,,Đông
+q002,143,Hồ Chí Minh,Quận 9,75.0,5.0,12.0,2.0,3.0,2.0,Have certificate,,Tây
+q003,78,Bình Dương,Dĩ An,100.0,6.0,,1.0,3.0,2.0,Have certificate,Basic,
+q004,128,Hà Nội,Bắc Từ Liêm,56.0,6.2,3.0,5.0,6.0,4.0,Have certificate,Full,Tây - Bắc
+q005,41,Hồ Chí Minh,Bình Chánh,35.0,,,3.0,3.0,3.0,Have certificate,,
+q006,27,Hà Nội,Tây Hồ,27.0,3.3,,5.0,3.0,4.0,Have certificate,Full,
+q007,75,Hồ Chí Minh,Nhà Bè,38.0,3.4,5.0,4.0,,,,,
+q008,133,Hà Nội,Cầu Giấy,47.0,,,,,,Have certificate,Full,
+q009,62,Khánh Hòa,Nha Trang,114.0,,,2.0,5.0,3.0,Have certificate,,Tây - Bắc
+q010,45,Hà Nội,Tây Hồ,104.0,5.0,4.0,,,,,,
+q011,31,Đà Nẵng,Hải Châu,30.0,3.5,3.0,2.0,3.0,3.0,Have certificate,Full,Nam
+q012,227,Hồ Chí Minh,Quận 12,60.0,5.0,10.5,2.0,3.0,2.0,Have certificate,Full,
+q013,6,Hòa Bình,Lương Sơn,35.0,6.3,,2.0,4.0,3.0,Have certificate,Full,
+q014,11,Hà Nội,Tây Hồ,150.0,,,1.0,,,Have certificate,Basic,
+q015,190,Hồ Chí Minh,Bình Tân,77.0,4.0,16.0,,,,Have certificate,Full,Tây
+q016,15,Đà Nẵng,Cẩm Lệ,116.0,,,2.0,,,,,Đông - Nam
+q017,97,Hồ Chí Minh,Quận 9,100.0,6.5,6.0,2.0,3.0,2.0,Have certificate,Basic,
+q018,154,Hà Nội,Thanh Xuân,67.5,4.5,6.0,4.0,4.0,4.0,Have certificate,,
+q019,62,Bình Dương,Thủ Dầu Một,70.0,5.0,12.0,1.0,3.0,2.0,Have certificate,Full,Tây - Bắc
+q020,35,Hải Phòng,Hải An,42.0,,,4.0,4.0,3.0,Have certificate,Full,Bắc
+q021,40,Hồ Chí Minh,Quận 12,150.0,,,4.0,4.0,5.0,Have certificate,Basic,Đông - Nam
+q022,124,Hồ Chí Minh,Quận 7,37.0,,,4.0,5.0,6.0,,Full,Tây - Bắc
+q023,178,Hà Nội,Nam Từ Liêm,58.9,,3.0,5.0,6.0,4.0,Have certificate,Basic,
+q024,6,Hồ Chí Minh,Quận 5,160.0,5.5,6.0,3.0,,,Have certificate,,
+q025,57,Đà Nẵng,Liên Chiểu,60.0,5.2,5.0,2.0,2.0,2.0,Have certificate,Full,
+q026,39,Hà Nội,Ba Đình,120.0,10.0,3.5,4.0,4.0,3.0,Have certificate,Full,
+q027,122,Hồ Chí Minh,Quận 7,80.0,,8.0,4.0,4.0,5.0,Have certificate,Full,Bắc
+q028,238,Hà Nội,Hoàng Mai,65.0,4.5,,3.0,4.0,3.0,Have certificate,Full,
+q029,30,Hà Nội,Hoàng Mai,200.0,,12.0,4.0,5.0,4.0,Have certificate,,
+q030,43,Đà Nẵng,Sơn Trà,79.0,,,2.0,3.0,2.0,Have certificate,Full,
+q031,77,Hà Nội,Ba Đình,32.0,4.2,3.0,4.0,4.0,3.0,Have certificate,Basic,
+q032,238,Hồ Chí Minh,Bình Tân,34.0,,,2.0,2.0,2.0,Have certificate,Basic,Tây
+q033,86,Hồ Chí Minh,Quận 8,39.0,3.3,,3.0,3.0,3.0,Have certificate,,Đông
+q034,18,Đà Nẵng,Hải Châu,124.0,6.2,4.0,3.0,4.0,,,,
+q035,43,Đà Nẵng,Liên Chiểu,80.0,4.0,10.0,1.0,1.0,1.0,Have certificate,,Đông - Bắc
+q036,215,Hà Nội,Đống Đa,44.0,,,4.0,4.0,3.0,Have certificate,Full,
+q037,137,Hà Nội,Hà Đông,30.0,,,5.0,4.0,4.0,Have certificate,Full,
+q038,27,Hồ Chí Minh,Quận 11,80.0,5.0,,4.0,6.0,6.0,Have certificate,Full,
+q039,27,Hà Nội,Gia Lâm,35.0,,,5.0,,,,,
+q040,276,Hà Nội,Hà Đông,75.0,5.0,12.0,6.0,3.0,,Have certificate,Basic,Tây - Bắc
+q041,120,Đồng Nai,Biên Hòa,51.2,5.2,7.0,3.0,4.0,4.0,Sale contract,,Đông - Nam
+q042,77,Hồ Chí Minh,Quận 10,55.0,,7.0,3.0,4.0,3.0,Have certificate,Basic,
+q043,118,Hà Nội,Ba Đình,53.0,4.0,,5.0,3.0,,Have certificate,Full,
+q044,197,Hồ Chí Minh,Tân Phú,85.0,5.5,5.0,5.0,6.0,,Have certificate,,
+q045,203,Hồ Chí Minh,Quận 12,64.0,4.0,7.0,2.0,3.0,2.0,Have certificate,Full,
+q046,123,Hà Nội,Hai Bà Trưng,90.0,7.0,8.0,5.0,3.0,4.0,Have certificate,,
+q047,131,Hồ Chí Minh,Quận 12,96.8,,,4.0,5.0,5.0,Have certificate,Basic,Nam
+q048,116,Hà Nội,Hai Bà Trưng,82.5,5.0,5.0,4.0,4.0,4.0,Have certificate,Full,
+q049,19,Quảng Ninh,Hạ Long,65.0,4.0,5.0,4.0,4.0,5.0,Have certificate,Full,Nam
+q050,33,Đà Nẵng,Sơn Trà,96.0,4.0,8.0,2.0,3.0,2.0,Have certificate,Basic,Đông
+q051,8,Hà Nội,Long Biên,240.0,,,4.0,4.0,3.0,Have certificate,Full,Đông - Bắc
+q052,14,Thanh Hóa,Thanh Hóa,45.0,4.0,,5.0,8.0,6.0,,,
+q053,211,Hồ Chí Minh,Tân Bình,42.6,4.0,3.0,2.0,3.0,2.0,Have certificate,,Tây - Nam
+q054,253,Hà Nội,Hà Đông,37.0,7.3,3.5,,,,Have certificate,Full,
+q055,238,Hà Nội,Đống Đa,54.5,3.5,3.0,4.0,3.0,,Have certificate,,
+q056,231,Hà Nội,Hoàng Mai,70.0,,13.0,5.0,3.0,4.0,Have certificate,Full,
+q057,83,Hồ Chí Minh,Thủ Đức,120.0,6.0,15.0,2.0,8.0,8.0,Have certificate,Full,
+q058,149,Hà Nội,Long Biên,30.0,,,6.0,3.0,4.0,Have certificate,Basic,
+q059,59,Hà Nội,Hoài Đức,33.0,,,5.0,3.0,4.0,Have certificate,Full,
+q060,257,Hồ Chí Minh,Thủ Đức,60.0,5.2,6.0,1.0,6.0,6.0,Have certificate,,
+q061,280,Hà Nội,Long Biên,50.0,,,2.0,2.0,2.0,Have certificate,,
+q062,21,Hồ Chí Minh,Quận 2,100.0,,,1.0,2.0,2.0,Have certificate,Basic,
+q063,305,Hồ Chí Minh,Bình Tân,50.0,5.0,13.0,2.0,2.0,2.0,Have certificate,Full,Đông
+q064,58,Bình Dương,Thuận An,33.0,,,3.0,4.0,4.0,Have certificate,Full,Nam
+q065,243,Hồ Chí Minh,Bình Thạnh,50.0,,,4.0,5.0,5.0,Have certificate,Full,
+q066,121,Hà Nội,Nam Từ Liêm,94.0,4.7,6.0,3.0,2.0,2.0,Have certificate,Full,
+q067,20,Hải Phòng,Hồng Bàng,65.0,4.0,,5.0,5.0,5.0,Sale contract,,
+q068,117,Bình Dương,Dĩ An,40.0,,,2.0,2.0,2.0,Have certificate,Basic,
+q069,225,Hồ Chí Minh,Bình Thạnh,45.0,4.5,,2.0,2.0,2.0,Have certificate,Full,
+q070,196,Hồ Chí Minh,Bình Tân,68.0,,4.0,4.0,4.0,,Have certificate,Full,
+q071,225,Hà Nội,Long Biên,71.0,,3.0,6.0,3.0,4.0,Have certificate,Basic,Tây - Nam
+q072,219,Hồ Chí Minh,Bình Thạnh,40.0,,3.0,,,,Have certificate,,
+q073,88,Bình Dương,Dĩ An,90.0,,,,8.0,,Have certificate,Full,
+q074,147,Hà Nội,Thanh Xuân,73.0,5.1,7.5,,,,Have certificate,Full,
+q075,183,Hà Nội,Đống Đa,86.0,,10.0,4.0,5.0,3.0,Have certificate,Basic,
+q076,172,Hà Nội,Hà Đông,96.7,5.0,13.0,2.0,2.0,2.0,Have certificate,Full,
+q077,16,Đồng Nai,Nhơn Trạch,89.0,5.0,18.0,2.0,3.0,2.0,,,
+q078,28,Hồ Chí Minh,Gò Vấp,22.0,6.0,5.0,4.0,4.0,3.0,Have certificate,Full,
+q079,311,Hồ Chí Minh,Gò Vấp,55.0,4.0,6.0,,,,,,
+q080,112,Hà Nội,Ba Đình,40.0,,,4.0,4.0,5.0,,,
+q081,166,Hồ Chí Minh,Bình Tân,30.0,3.5,3.0,3.0,4.0,4.0,Have certificate,Full,
+q082,175,Hà Nội,Hai Bà Trưng,42.0,,,6.0,4.0,5.0,Have certificate,Full,
+q083,99,Hà Nội,Bắc Từ Liêm,80.0,4.0,10.0,5.0,5.0,5.0,Have certificate,Full,
+q084,97,Hồ Chí Minh,Quận 7,33.0,4.0,4.0,3.0,2.0,2.0,Have certificate,Basic,
+q085,129,Hồ Chí Minh,Tân Bình,33.0,5.0,50.0,5.0,4.0,4.0,Have certificate,,
+q086,38,Hồ Chí Minh,Phú Nhuận,120.0,6.0,13.0,4.0,5.0,4.0,Have certificate,Full,
+q087,29,Bà Rịa Vũng Tàu,Vũng Tàu,83.0,,4.4,2.0,3.0,,Have certificate,Full,Đông
+q088,81,Hà Nội,Đống Đa,124.0,,,5.0,3.0,,Have certificate,Full,
+q089,225,Hà Nội,Long Biên,72.0,,,5.0,,,Have certificate,Basic,
+q090,103,Hà Nội,Hà Đông,115.1,5.0,19.0,4.0,4.0,3.0,Have certificate,Basic,Đông - Nam
+q091,3,Hồ Chí Minh,Quận 3,203.0,,,,5.0,3.0,Have certificate,Full,
+q092,36,Bình Dương,Tân Uyên,68.0,4.0,8.0,1.0,2.0,2.0,Have certificate,Full,
+q093,107,Hà Nội,Thanh Xuân,100.0,,10.0,4.0,4.0,,Have certificate,,
+q094,298,Hồ Chí Minh,Gò Vấp,54.0,,3.5,2.0,2.0,3.0,Have certificate,Full,Tây - Nam
+q095,124,Hồ Chí Minh,Quận 8,50.0,,,4.0,5.0,5.0,,,
+q096,239,Hà Nội,Long Biên,65.0,4.0,5.0,5.0,6.0,3.0,Have certificate,Basic,Nam
+q097,35,Bình Dương,Tân Uyên,67.0,6.0,3.0,1.0,3.0,2.0,,,
+q098,107,Hà Nội,Long Biên,121.8,5.0,,,3.0,,Have certificate,,
+q099,189,Hà Nội,Nam Từ Liêm,60.0,,,5.0,4.0,4.0,Have certificate,Basic,

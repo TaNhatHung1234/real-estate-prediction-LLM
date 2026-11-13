@@ -1,0 +1,29 @@
+{
+  "n_queries": 100,
+  "k": 3,
+  "fallback_rate_no_same_district": 0.0,
+  "primary_tolerance_5pct": {
+    "retriever_app_logic": {
+      "precision@3": 0.967,
+      "hit@3": 0.99,
+      "median_area_gap_m2": 0.0
+    },
+    "baseline_random_same_district": {
+      "precision@3": 0.077,
+      "hit@3": 0.21,
+      "median_area_gap_m2": 24.5
+    }
+  },
+  "reference_tolerance_20pct": {
+    "retriever_app_logic": {
+      "precision@3": 1.0,
+      "hit@3": 1.0,
+      "median_area_gap_m2": 0.0
+    },
+    "baseline_random_same_district": {
+      "precision@3": 0.243,
+      "hit@3": 0.55,
+      "median_area_gap_m2": 27.5
+    }
+  }
+}
